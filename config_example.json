@@ -1,0 +1,8 @@
+{
+    "apiUrl": "https://api.payfit.com/time/v1/tracking/timesheet",
+    "cookieHeader": "",
+    "contentType": "application/json",
+    "Authorization":"",
+    "Origin":"https://app.payfit.com",
+    "Referer":"https://app.payfit.com"
+  }

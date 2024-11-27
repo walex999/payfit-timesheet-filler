@@ -1,0 +1,5 @@
+mapping.json
+config.json
+*.csv
+*.log
+node_modules

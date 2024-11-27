@@ -1,0 +1,17 @@
+{
+  "name": "payfit-timesheet-filler",
+  "version": "1.0.0",
+  "description": "This is a simple script to automate filling timesheets on Payfit from a CSV import. It's designed to save some time (and maybe some sanity) by taking a CSV file as an input and doing API calls to Payfit to modify the current timesheet.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "csv-parser": "^3.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
